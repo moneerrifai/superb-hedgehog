@@ -14,7 +14,7 @@ sections:
         style: primary
         new_window: false
         no_follow: false
-    align: left
+    align: right
     image: images/logo-66d19c47.png
     image_alt: Hero placeholder image
     image_position: right
