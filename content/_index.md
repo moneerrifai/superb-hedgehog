@@ -9,7 +9,7 @@ sections:
       - label: Listen to the Podcast
         url: /contact
         style: secondary
-      - label: lorem-ipsum
+      - label: G
         url: '#'
         style: link
         new_window: false
