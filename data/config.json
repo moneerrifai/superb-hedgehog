@@ -22,7 +22,7 @@
             {
                 "label": "Contact Us",
                 "url": "/contact",
-                "style": "primary"
+                "style": "secondary"
             },
             {
                 "label": "eBook",
