@@ -86,7 +86,7 @@ sections:
     background_color: gray
   - title: Podcast  Episodes
     show_recent: true
-    recent_count: 0
+    recent_count: 4
     type: blog_feed_section
 seo:
   title: Stackbit Starter Theme
