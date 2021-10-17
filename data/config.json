@@ -10,13 +10,13 @@
                 "style": "link"
             },
             {
-                "label": "About",
-                "url": "/about",
+                "label": "Podcast",
+                "url": "/style-guide",
                 "style": "link"
             },
             {
-                "label": "Podcast",
-                "url": "/style-guide",
+                "label": "About",
+                "url": "/about",
                 "style": "link"
             },
             {
