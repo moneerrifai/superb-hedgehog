@@ -6,7 +6,7 @@ sections:
       - label: Get the Free eBook
         url: /contact
         style: secondary
-    align: center
+    align: left
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
