@@ -6,7 +6,7 @@ sections:
       - label: Read the Blog
         url: /features
         style: primary
-      - label: Contact Us
+      - label: Listen to the Podcast
         url: /contact
         style: secondary
     align: left
