@@ -6,7 +6,7 @@ sections:
       - label: Read the Blog
         url: /features
         style: primary
-      - label: Listen to the Podcast
+      - label: Get the Free eBook
         url: /contact
         style: secondary
       - label: Get the  eBook
