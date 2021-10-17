@@ -3,9 +3,6 @@ title: Home
 sections:
   - type: hero_section
     actions:
-      - label: Read the Blog
-        url: /features
-        style: primary
       - label: Get the Free eBook
         url: /contact
         style: secondary
