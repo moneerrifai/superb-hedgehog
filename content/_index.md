@@ -6,11 +6,6 @@ sections:
       - label: Get the Free eBook
         url: /contact
         style: secondary
-      - label: Get the  eBook
-        url: '#'
-        style: primary
-        new_window: false
-        no_follow: false
     align: right
     image_alt: Hero placeholder image
     image_position: right
