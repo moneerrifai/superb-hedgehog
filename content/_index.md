@@ -11,7 +11,7 @@ sections:
         style: secondary
       - label: Get the  eBook
         url: '#'
-        style: secondary
+        style: primary
         new_window: false
         no_follow: false
     align: left
