@@ -85,7 +85,7 @@ sections:
     has_background: true
     background_color: gray
   - title: Podcast  Episodes
-    show_recent: false
+    show_recent: true
     recent_count: 0
     type: blog_feed_section
 seo:
