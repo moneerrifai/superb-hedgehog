@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 'Forget Web Development, Become a Cloud Developer Instead!'
 date: '2021-10-19'
 categories: []
 tags: []
