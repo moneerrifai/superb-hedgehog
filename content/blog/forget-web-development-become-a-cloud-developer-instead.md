@@ -14,9 +14,23 @@ layout: post
 ---
 ## The “Learn How to Code” Hype Train
 
-Unless you have been living under a rock, you probably know that “becoming a developer” is all the rage.![](https://www.moneerrifai.com/images/bootcamps.png)![](https://www.moneerrifai.com/images/nobody_understands_cloud.jpeg)![](https://www.moneerrifai.com/images/yoda.jpg)
+Unless you have been living under a rock, you probably know that “becoming a developer” is all the rage.![](https://www.moneerrifai.com/images/bootcamps.png)
+
+![](https://www.moneerrifai.com/images/nobody_understands_cloud.jpeg)
+
+
+
+
 
 The first coding bootcamp appeared around 2011, and over the next few years, they exploded in popularity. There are now countless in-person and online bootcamps. Additionally, there are tons of platforms and online courses, some completely free (like freeCodeCamp).
+
+
+
+
+
+![](https://www.moneerrifai.com/images/yoda.jpg)
+
+
 
 All these programs are great, but for the most part, they focus on one thing: web development.
 
