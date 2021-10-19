@@ -5,7 +5,7 @@ categories:
   - data/categories/category-yqi4n8ztv.json
 tags: []
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: Why Cloud  Development is the better career path
 seo:
   title: ''
   description: ''
