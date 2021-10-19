@@ -13,6 +13,7 @@ seo:
   extra: []
 layout: post
 author: data/team/person-cmdg9w8hx.json
+image: images/xps-kLfkVa_4aXM-unsplash.jpg
 ---
 ## The “Learn How to Code” Hype Train
 
