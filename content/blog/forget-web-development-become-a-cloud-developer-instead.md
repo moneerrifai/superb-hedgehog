@@ -14,23 +14,9 @@ layout: post
 ---
 ## The “Learn How to Code” Hype Train
 
-Unless you have been living under a rock, you probably know that “becoming a developer” is all the rage.![](https://www.moneerrifai.com/images/bootcamps.png)
-
-![](https://www.moneerrifai.com/images/nobody_understands_cloud.jpeg)
-
-
-
-
+Unless you have been living under a rock, you probably know that “becoming a developer” is all the rage.
 
 The first coding bootcamp appeared around 2011, and over the next few years, they exploded in popularity. There are now countless in-person and online bootcamps. Additionally, there are tons of platforms and online courses, some completely free (like freeCodeCamp).
-
-
-
-
-
-![](https://www.moneerrifai.com/images/yoda.jpg)
-
-
 
 All these programs are great, but for the most part, they focus on one thing: web development.
 
@@ -62,9 +48,12 @@ The explosion of bootcamps and the wide availability of online resources has bee
 
 It has never been easier to learn if you are willing to put in the effort (and often, a decent chunk of money).
 
-Coding Bootcamp Market Growth According to Course Report - source: (https://www.coursereport.com/coding-bootcamp-ultimate-guide)
+![](https://www.moneerrifai.com/images/bootcamps.png)
+
+
 
 What that means for new developers though is that the competition is fierce! When there are multiple applicants for the same web dev position, having the skills alone might not be enough. Applicants need to have a strong portfolio as well as experience and additional skills to stand out. Many have to start out with an internship.
+
 
 ### Problem 2: Companies Are Hiring (and Keeping) Fewer Junior Web Developers
 
@@ -80,9 +69,11 @@ Additionally, it seems that every day new technologies and frameworks are coming
 
 Let’s talk about what is arguably one of the hottest and most in-demand skill in the tech industry right now.
 
-True, but a select few actually do!
+![](https://www.moneerrifai.com/images/nobody_understands_cloud.jpeg)
 
-### What is Cloud Development
+
+
+### What is Cloud Development&#xA;
 
 Simply put: it is the usage of modern development technologies to architect, build and support complex cloud infrastructure.
 
@@ -142,7 +133,11 @@ At a high level, you need the following skills:
 
 Depending on your background, you might be able to transfer many of your existing skills over. For example, I came from a traditional IT operations background so I was able to translate that to the cloud (by picking up some cloud certifications) but I needed to work hard to develop my code skills (of which I had none) and I also had to learn a couple of cloud tools.
 
-Yoda is right, but it is not as bad as he thinks
+
+
+![](https://www.moneerrifai.com/images/yoda.jpg)
+
+
 
 Your path might be different than mine, but it is very likely that you will need to supplement your existing knowledge, or even build it up from scratch if you are new to tech. No matter where you’re starting from, you can easily break into this exciting field.
 
