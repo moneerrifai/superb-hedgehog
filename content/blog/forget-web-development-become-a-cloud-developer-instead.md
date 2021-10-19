@@ -13,6 +13,7 @@ seo:
   extra: []
 layout: post
 author: data/team/person-cmdg9w8hx.json
+image: images/do-not-become-a-web-developer.png
 ---
 ## The “Learn How to Code” Hype Train
 
