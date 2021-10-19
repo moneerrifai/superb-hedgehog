@@ -5,9 +5,6 @@ categories:
   - data/categories/category-yqi4n8ztv.json
 tags: []
 image_alt: lorem-ipsum
-excerpt: >-
-  Interested in transitioning into development? Web development is all the rage,
-  but cloud development is what you need to be considering instead
 seo:
   title: ''
   description: ''
