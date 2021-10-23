@@ -5,13 +5,13 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Blog",
-                "url": "/blog",
+                "label": "Podcast",
+                "url": "/style-guide",
                 "style": "link"
             },
             {
-                "label": "Podcast",
-                "url": "/style-guide",
+                "label": "Blog",
+                "url": "/blog",
                 "style": "link"
             },
             {
