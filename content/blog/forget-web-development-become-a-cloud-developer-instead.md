@@ -1,6 +1,6 @@
 ---
 title: 'Forget Web Development, Become a Cloud Developer Instead!'
-date: '2021-05-16'
+date: '2020-05-16'
 categories:
   - data/categories/category-yqi4n8ztv.json
 tags: []
