@@ -52,7 +52,7 @@ seo:
       value: The preview of the Starter theme
       keyName: property
     - name: 'og:image'
-      value: images/
+      value: images/logo.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
