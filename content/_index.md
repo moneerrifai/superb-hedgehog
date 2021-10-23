@@ -39,7 +39,7 @@ sections:
     recent_count: 4
     type: blog_feed_section
 seo:
-  title: Stackbit Starter Theme
+  title: Path to Cloud
   description: The preview of the Starter theme
   extra:
     - name: 'og:type'
