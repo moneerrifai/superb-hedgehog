@@ -54,7 +54,7 @@ seo:
         and helping companies migrate their infrastructure to the cloud
       keyName: property
     - name: 'og:image'
-      value: images/logo.png
+      value: images/logo-66d19c47.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
