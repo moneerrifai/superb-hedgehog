@@ -40,7 +40,7 @@ sections:
     type: blog_feed_section
 seo:
   title: Path to Cloud
-  description: The preview of the Starter theme
+  description: Where your journey to the cloud begins
   extra:
     - name: 'og:type'
       value: website
