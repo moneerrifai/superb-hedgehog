@@ -16,7 +16,7 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
-    title: "Your Cloud Journey Starts Here \U0001F680"
+    title: "Your Journey Starts Here \U0001F680"
     subtitle: Ready to launch your cloud career? You have come to the right place!
     image: images/logo-transparent-1.png
   - type: blog_feed_section
