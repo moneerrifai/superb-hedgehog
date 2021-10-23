@@ -49,7 +49,9 @@ seo:
       value: Where your journey to the cloud begins
       keyName: property
     - name: 'og:description'
-      value: The preview of the Starter theme
+      value: >-
+        Helping individuals break into the exciting career of cloud and DevOps,
+        and helping companies migrate their infrastructure to the cloud
       keyName: property
     - name: 'og:image'
       value: images/logo.png
