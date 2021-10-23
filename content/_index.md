@@ -62,7 +62,9 @@ seo:
     - name: 'twitter:title'
       value: Where your journey to the cloud begins
     - name: 'twitter:description'
-      value: The preview of the Starter theme
+      value: >-
+        Helping individuals break into the exciting career of cloud and DevOps,
+        and helping companies migrate their infrastructure to the cloud
     - name: 'twitter:image'
       value: images/logo.png
       relativeUrl: true
