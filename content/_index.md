@@ -6,7 +6,7 @@ sections:
       - label: Get the Free eBook
         url: /contact
         style: secondary
-      - label: lorem-ipsum
+      - label: Listen to the Podcast
         url: '#'
         style: link
         new_window: false
