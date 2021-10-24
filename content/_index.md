@@ -37,6 +37,7 @@ sections:
     show_recent: true
     recent_count: 4
     type: blog_feed_section
+    category: data/categories/category-5ht923itg.json
   - type: cta_section
     title: This Is A CTA
     subtitle: >-
