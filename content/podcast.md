@@ -4,6 +4,7 @@ sections:
   - type: hero_section
     title: Podcast
     align: center
+    subtitle: Path to Cloud Podcast
   - type: blog_feed_section
     show_recent: false
 seo:
