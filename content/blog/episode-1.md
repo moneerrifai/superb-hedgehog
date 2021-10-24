@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Episode 1
 date: '2021-10-24'
 categories: []
 tags: []
