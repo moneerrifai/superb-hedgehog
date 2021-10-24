@@ -11,6 +11,7 @@ seo:
   robots: []
   extra: []
 layout: post
+image: images/Can You Jumpstart Your Career With AWS Certifications.png
 ---
 ## Lorem ipsum
 
