@@ -4,7 +4,7 @@ date: '2021-10-24'
 categories:
   - data/categories/category-5ht923itg.json
 tags: []
-image_alt: lorem-ipsum
+image_alt: Podcast
 excerpt: lorem-ipsum
 seo:
   title: ''
