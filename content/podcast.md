@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Podcast\
 sections:
   - type: hero_section
     title: Blog
