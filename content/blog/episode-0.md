@@ -12,6 +12,7 @@ seo:
   robots: []
   extra: []
 layout: post
+excerpt: 'Introduction to the '
 ---
 # Introduction
 
