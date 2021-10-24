@@ -6,7 +6,7 @@ tags: []
 image_alt: lorem-ipsum
 excerpt: >-
   Certifications are a bit of a controversial topic, but you can leverage them
-  to 
+  to advance your career
 seo:
   title: ''
   description: ''
