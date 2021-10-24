@@ -8,7 +8,7 @@ sections:
     actions:
       - label: Subscribe in iTunes
         url: itunes.com
-        style: link
+        style: primary
         new_window: false
         no_follow: false
   - type: blog_feed_section
