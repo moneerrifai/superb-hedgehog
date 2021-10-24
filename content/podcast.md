@@ -16,6 +16,19 @@ sections:
     show_recent: false
     title: Recent Episodes
     category: data/categories/category-5ht923itg.json
+  - title: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    type: content_section
 seo:
   title: Blog
   description: This is the blog page
