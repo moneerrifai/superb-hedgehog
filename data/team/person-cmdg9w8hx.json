@@ -5,5 +5,6 @@
     "last_name": "Rifai",
     "photo_alt": "lorem-ipsum",
     "bio": "Cloud developer and DevOps Engineer\n",
-    "type": "person"
+    "type": "person",
+    "photo": "images/Moneer Rifai.png"
 }
