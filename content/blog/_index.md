@@ -7,6 +7,7 @@ sections:
   - type: blog_feed_section
     show_recent: false
     title: The Blog
+    category: data/categories/category-yqi4n8ztv.json
 seo:
   title: Blog
   description: This is the blog page
