@@ -1,5 +1,5 @@
 ---
-title: Path to Cloud Podcast - Ep 0
+title: Path to Cloud Podcast - Episode 0
 date: '2021-10-23'
 categories: []
 tags: []
