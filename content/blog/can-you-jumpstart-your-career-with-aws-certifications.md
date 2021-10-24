@@ -14,6 +14,7 @@ seo:
   extra: []
 layout: post
 image: images/Can You Jumpstart Your Career With AWS Certifications.png
+author: data/team/person-cmdg9w8hx.json
 ---
 Cloud expertise is currently one of the most sought-after tech skills out there, and cloud jobs are some of the highest paying in the industry. But how does one break into this exciting field?![](https://www.moneerrifai.com/images/aws-certifications.png)![](https://media.giphy.com/media/qDPg6HNz2NfAk/source.gif)
 
