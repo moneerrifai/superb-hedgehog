@@ -6,6 +6,7 @@ sections:
     align: center
   - type: blog_feed_section
     show_recent: false
+    title: The Blog
 seo:
   title: Blog
   description: This is the blog page
