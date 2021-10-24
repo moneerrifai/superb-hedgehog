@@ -3,14 +3,14 @@ title: Home
 sections:
   - type: hero_section
     actions:
-      - label: Get the Free eBook
-        url: /contact
-        style: secondary
       - label: Listen to the Podcast
         url: '#'
         style: link
         new_window: false
         no_follow: false
+      - label: Get the Free eBook
+        url: /contact
+        style: secondary
       - label: Read the Blog
         url: '#'
         style: link
