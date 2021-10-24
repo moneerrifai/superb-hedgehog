@@ -11,7 +11,7 @@ sections:
         style: primary
         new_window: false
         no_follow: false
-    has_background: true
+    has_background: false
   - type: blog_feed_section
     show_recent: false
     title: Recent Episodes
