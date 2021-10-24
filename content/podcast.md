@@ -6,7 +6,7 @@ sections:
     align: center
     subtitle: Path to Cloud Podcast
     actions:
-      - label: lorem-ipsum
+      - label: 'Subscribe in '
         url: '#'
         style: link
         new_window: false
