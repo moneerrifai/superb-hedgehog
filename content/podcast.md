@@ -6,7 +6,7 @@ sections:
     align: center
     subtitle: Path to Cloud Podcast
     actions:
-      - label: 'Subscribe in '
+      - label: Subscribe in iTunes
         url: '#'
         style: link
         new_window: false
