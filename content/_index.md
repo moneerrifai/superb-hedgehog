@@ -33,6 +33,10 @@ sections:
     show_recent: true
     recent_count: 1
     title: Recent Blog Entries
+  - title: Podcast  Episodes
+    show_recent: true
+    recent_count: 4
+    type: blog_feed_section
   - type: cta_section
     title: This Is A CTA
     subtitle: >-
@@ -44,10 +48,6 @@ sections:
         style: primary
     has_background: true
     background_color: gray
-  - title: Podcast  Episodes
-    show_recent: true
-    recent_count: 4
-    type: blog_feed_section
 seo:
   title: Path to Cloud
   description: Where your journey to the cloud begins
