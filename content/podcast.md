@@ -14,6 +14,7 @@ sections:
   - type: blog_feed_section
     show_recent: false
     title: Recent Episodes
+    category: data/categories/category-5ht923itg.json
 seo:
   title: Blog
   description: This is the blog page
