@@ -33,7 +33,7 @@ sections:
     show_recent: true
     recent_count: 1
     title: Recent Blog Entries
-  - title: Podcast  Episodes
+  - title: Recent Podcast  Episodes
     show_recent: true
     recent_count: 4
     type: blog_feed_section
