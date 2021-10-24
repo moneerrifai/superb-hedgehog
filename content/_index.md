@@ -8,14 +8,14 @@ sections:
         style: link
         new_window: false
         no_follow: false
-      - label: Get the Free eBook
-        url: /contact
-        style: secondary
       - label: Read the Blog
         url: '#'
         style: link
         new_window: false
         no_follow: false
+      - label: Get the Free eBook
+        url: /contact
+        style: secondary
     align: center
     image_alt: Hero placeholder image
     image_position: right
