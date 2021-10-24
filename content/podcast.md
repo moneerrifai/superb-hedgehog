@@ -7,7 +7,7 @@ sections:
     subtitle: Path to Cloud Podcast
     actions:
       - label: Subscribe in iTunes
-        url: '#'
+        url: itunes.com
         style: link
         new_window: false
         no_follow: false
