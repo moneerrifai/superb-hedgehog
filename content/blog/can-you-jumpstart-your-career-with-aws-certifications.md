@@ -4,7 +4,7 @@ date: '2021-10-24'
 categories: []
 tags: []
 image_alt: lorem-ipsum
-excerpt: asdfasdfasdfasdf
+excerpt: 'Certifications are a bit of a controversial topic,'
 seo:
   title: ''
   description: ''
