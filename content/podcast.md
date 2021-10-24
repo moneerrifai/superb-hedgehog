@@ -5,6 +5,12 @@ sections:
     title: Podcast
     align: center
     subtitle: Path to Cloud Podcast
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        new_window: false
+        no_follow: false
   - type: blog_feed_section
     show_recent: false
 seo:
