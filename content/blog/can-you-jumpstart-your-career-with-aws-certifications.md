@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Can You Jumpstart Your Career With AWS Certifications?
 date: '2021-10-24'
 categories: []
 tags: []
