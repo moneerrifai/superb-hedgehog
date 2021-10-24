@@ -1,7 +1,8 @@
 ---
 title: Can You Jumpstart Your Career With AWS Certifications?
 date: '2020-05-07'
-categories: []
+categories:
+  - data/categories/category-yqi4n8ztv.json
 tags: []
 image_alt: lorem-ipsum
 excerpt: >-
