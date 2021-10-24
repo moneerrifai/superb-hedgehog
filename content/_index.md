@@ -5,7 +5,7 @@ sections:
     actions:
       - label: Listen to the Podcast
         url: '#'
-        style: secondary
+        style: primary
         new_window: false
         no_follow: false
       - label: Read the Blog
