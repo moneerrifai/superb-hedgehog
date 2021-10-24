@@ -11,7 +11,7 @@ sections:
         style: link
         new_window: false
         no_follow: false
-      - label: lorem-ipsum
+      - label: Read the Blog
         url: '#'
         style: link
         new_window: false
