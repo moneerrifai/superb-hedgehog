@@ -6,8 +6,8 @@ categories:
 tags: []
 image_alt: Rocket Launch
 excerpt: >-
-  Certifications are a bit of a controversial topic, but you can leverage them
-  to advance your career
+  Certifications are a bit of a controversial topic, but learn how you can
+  leverage them to advance your career.
 seo:
   title: ''
   description: ''
