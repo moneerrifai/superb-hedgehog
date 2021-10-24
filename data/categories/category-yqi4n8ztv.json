@@ -1,6 +1,6 @@
 {
     "id": "blog",
-    "link": "lorem-ipsum",
+    "link": "/blog",
     "title": "Blog",
     "type": "category"
 }
