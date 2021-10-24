@@ -4,7 +4,7 @@ date: '2020-05-07'
 categories:
   - data/categories/category-yqi4n8ztv.json
 tags: []
-image_alt: lorem-ipsum
+image_alt: Rocket Launch
 excerpt: >-
   Certifications are a bit of a controversial topic, but you can leverage them
   to advance your career
