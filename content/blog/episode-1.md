@@ -12,6 +12,7 @@ seo:
   robots: []
   extra: []
 layout: post
+image: images/PODCAST 1.png
 ---
 ## Welcome to the Podcast!
 
