@@ -11,6 +11,11 @@ sections:
         style: link
         new_window: false
         no_follow: false
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        new_window: false
+        no_follow: false
     align: center
     image_alt: Hero placeholder image
     image_position: right
