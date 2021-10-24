@@ -13,7 +13,7 @@ sections:
         no_follow: false
   - type: blog_feed_section
     show_recent: false
-    title: d
+    title: Recent Episodes
 seo:
   title: Blog
   description: This is the blog page
