@@ -3,7 +3,8 @@ title: Path to Cloud Podcast - Episode 0
 date: '2021-10-23'
 categories:
   - data/categories/category-5ht923itg.json
-tags: []
+tags:
+  - lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
