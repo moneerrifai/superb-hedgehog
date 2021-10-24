@@ -6,7 +6,7 @@ categories:
 tags:
   - tag1
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: We
 seo:
   title: ''
   description: ''
