@@ -31,7 +31,7 @@ sections:
     image: images/logo-transparent-1.png
   - type: blog_feed_section
     show_recent: true
-    recent_count: 3
+    recent_count: 1
     title: Recent Blog Entries
   - type: cta_section
     title: This Is A CTA
