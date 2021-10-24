@@ -5,7 +5,7 @@ categories:
   - data/categories/category-5ht923itg.json
 tags: []
 image_alt: Podcast
-excerpt: lorem-ipsum
+excerpt: 'The Inagural '
 seo:
   title: ''
   description: ''
