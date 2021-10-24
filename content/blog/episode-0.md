@@ -4,7 +4,7 @@ date: '2021-10-23'
 categories:
   - data/categories/category-5ht923itg.json
 tags:
-  - lorem-ipsum
+  - tag1
 image_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
