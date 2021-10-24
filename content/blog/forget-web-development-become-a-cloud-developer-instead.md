@@ -14,7 +14,7 @@ layout: post
 author: data/team/person-cmdg9w8hx.json
 excerpt: >-
   Interested in transitioning into development? Web development is all the rage,
-  but cloud development is what you need to be considering instead
+  but cloud development is what you need to be considering instead.
 image: images/do-not-become-a-web-developer (800 x 450 px).png
 ---
 ## The “Learn How to Code” Hype Train
