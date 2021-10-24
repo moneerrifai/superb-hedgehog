@@ -12,7 +12,7 @@ sections:
         new_window: false
         no_follow: false
   - type: blog_feed_section
-    show_recent: true
+    show_recent: false
     title: Recent Episodes
 seo:
   title: Blog
