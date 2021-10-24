@@ -12,7 +12,7 @@ seo:
   robots: []
   extra: []
 layout: post
-excerpt: 'Introduction to the '
+excerpt: Introduction to the Path to Cloud podcast
 ---
 # Introduction
 
