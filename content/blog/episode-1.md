@@ -12,9 +12,7 @@ seo:
   extra: []
 layout: post
 ---
-## Lorem ipsum
+## Welcome to the Podcast!
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+This is the first episode of the path to cloud podcast
 
-- Lorem ipsum
-- dolor sit amet
