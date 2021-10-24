@@ -31,7 +31,7 @@ sections:
     image: images/logo-transparent-1.png
   - type: blog_feed_section
     show_recent: true
-    recent_count: 1
+    recent_count: 3
     title: Recent Blog Entries
   - title: Recent Podcast Episodes
     show_recent: true
