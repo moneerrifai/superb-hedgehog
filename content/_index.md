@@ -31,7 +31,7 @@ sections:
     image: images/logo-transparent-1.png
   - type: blog_feed_section
     show_recent: true
-    recent_count: 3
+    recent_count: 6
     title: Recent Content
     category: data/categories/category-yqi4n8ztv.json
   - title: Recent Podcast Episodes
