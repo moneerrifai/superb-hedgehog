@@ -37,7 +37,7 @@ sections:
     title: Subscribe to Our Newsletter
     subtitle: 'To get notified of new episodes and blog posts, subscribe!'
     actions:
-      - label: Learn More
+      - label: Subscrib
         url: /features
         style: primary
     has_background: true
