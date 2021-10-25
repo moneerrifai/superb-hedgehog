@@ -36,7 +36,7 @@ sections:
     category: data/categories/category-yqi4n8ztv.json
   - title: Recent Podcast Episodes
     show_recent: true
-    recent_count: 4
+    recent_count: 3
     type: blog_feed_section
     category: data/categories/category-5ht923itg.json
   - type: cta_section
