@@ -35,9 +35,7 @@ sections:
     title: Recent Content
   - type: cta_section
     title: Subscribe to Our Newsletter
-    subtitle: >-
-      To get notified of new episodes and blog posts, click the subscribe button
-      here
+    subtitle: 'To get notified of new episodes and blog posts, click on Subscribe'
     actions:
       - label: Learn More
         url: /features
