@@ -35,9 +35,7 @@ sections:
     title: Recent Content
   - type: cta_section
     title: Subscribe to Our Newsletter
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: 'To get notified of new episodes and blog posts, '
     actions:
       - label: Learn More
         url: /features
