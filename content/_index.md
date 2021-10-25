@@ -32,7 +32,7 @@ sections:
   - type: blog_feed_section
     show_recent: false
     recent_count: 3
-    title: Recent Podcasts and Blog Entires
+    title: Recent Content
     category: data/categories/category-yqi4n8ztv.json
   - title: Recent Podcast Episodes
     show_recent: true
