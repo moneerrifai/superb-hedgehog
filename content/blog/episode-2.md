@@ -5,7 +5,7 @@ categories:
   - data/categories/category-5ht923itg.json
 tags: []
 image_alt: Podcast
-excerpt: 'The Inaugural Episode of Path to Cloud! '
+excerpt: The second episode!
 seo:
   title: ''
   description: ''
