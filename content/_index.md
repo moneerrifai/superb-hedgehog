@@ -38,7 +38,7 @@ sections:
     subtitle: 'To get notified of new episodes and blog posts, subscribe!'
     actions:
       - label: Subscribe
-        url: /features
+        url: /subscribe
         style: primary
     has_background: true
     background_color: gray
