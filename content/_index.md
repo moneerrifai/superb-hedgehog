@@ -33,7 +33,6 @@ sections:
     show_recent: true
     recent_count: 6
     title: Recent Content
-    category: data/categories/category-yqi4n8ztv.json
   - title: Recent Podcast Episodes
     show_recent: true
     recent_count: 3
