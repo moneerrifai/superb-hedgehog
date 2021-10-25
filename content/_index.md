@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     actions:
       - label: Listen to the Podcast
-        url: '#'
+        url: /podcast
         style: link
         new_window: false
         no_follow: false
