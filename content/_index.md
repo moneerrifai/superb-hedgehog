@@ -30,7 +30,7 @@ sections:
     subtitle: Ready to launch your cloud career? You have come to the right place!
     image: images/logo-transparent-1.png
   - type: blog_feed_section
-    show_recent: false
+    show_recent: true
     recent_count: 3
     title: Recent Content
     category: data/categories/category-yqi4n8ztv.json
