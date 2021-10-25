@@ -34,7 +34,7 @@ sections:
     recent_count: 6
     title: Recent Content
   - type: cta_section
-    title: This Is A CTA
+    title: Subscribe to Our Newsletter
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
