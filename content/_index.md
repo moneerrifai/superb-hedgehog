@@ -33,11 +33,6 @@ sections:
     show_recent: true
     recent_count: 6
     title: Recent Content
-  - title: Recent Podcast Episodes
-    show_recent: true
-    recent_count: 3
-    type: blog_feed_section
-    category: data/categories/category-5ht923itg.json
   - type: cta_section
     title: This Is A CTA
     subtitle: >-
