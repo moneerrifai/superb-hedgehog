@@ -9,7 +9,7 @@ sections:
         new_window: false
         no_follow: false
       - label: Read the Blog
-        url: '#'
+        url: /blog
         style: link
         new_window: false
         no_follow: false
