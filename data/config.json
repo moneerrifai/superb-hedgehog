@@ -32,7 +32,7 @@
                 "no_follow": false
             },
             {
-                "label": "lorem-ipsum",
+                "label": "home",
                 "url": "#",
                 "style": "link",
                 "new_window": false,
