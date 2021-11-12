@@ -25,16 +25,16 @@
                 "style": "link"
             },
             {
-                "label": "Free eBook",
-                "url": "/ebook",
-                "style": "primary",
+                "label": "home",
+                "url": "/",
+                "style": "secondary",
                 "new_window": false,
                 "no_follow": false
             },
             {
-                "label": "home",
-                "url": "/",
-                "style": "secondary",
+                "label": "Free eBook",
+                "url": "/ebook",
+                "style": "primary",
                 "new_window": false,
                 "no_follow": false
             }
