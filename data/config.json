@@ -5,6 +5,13 @@
         "has_nav": true,
         "nav_links": [
             {
+                "label": "Free eBook",
+                "url": "/ebook",
+                "style": "primary",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
                 "label": "Podcast",
                 "url": "/podcast",
                 "style": "link"
@@ -28,13 +35,6 @@
                 "label": "home",
                 "url": "/",
                 "style": "secondary",
-                "new_window": false,
-                "no_follow": false
-            },
-            {
-                "label": "Free eBook",
-                "url": "/ebook",
-                "style": "primary",
                 "new_window": false,
                 "no_follow": false
             }
