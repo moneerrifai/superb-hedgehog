@@ -5,6 +5,13 @@
         "has_nav": true,
         "nav_links": [
             {
+                "label": "home",
+                "url": "/",
+                "style": "secondary",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
                 "label": "Free eBook",
                 "url": "/ebook",
                 "style": "primary",
@@ -30,13 +37,6 @@
                 "label": "Contact",
                 "url": "/contact",
                 "style": "link"
-            },
-            {
-                "label": "home",
-                "url": "/",
-                "style": "secondary",
-                "new_window": false,
-                "no_follow": false
             }
         ]
     },
