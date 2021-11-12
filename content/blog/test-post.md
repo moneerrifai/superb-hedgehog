@@ -2,7 +2,8 @@
 title: lorem-ipsum
 date: '2021-11-12'
 categories: []
-tags: []
+tags:
+  - lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
