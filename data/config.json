@@ -7,7 +7,7 @@
             {
                 "label": "home",
                 "url": "/",
-                "style": "secondary",
+                "style": "link",
                 "new_window": false,
                 "no_follow": false
             },
