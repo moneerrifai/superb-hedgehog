@@ -32,7 +32,7 @@ sections:
   - type: blog_feed_section
     show_recent: true
     recent_count: 6
-    title: Recent Content
+    title: Latest News
   - type: cta_section
     title: Subscribe to Our Newsletter
     subtitle: 'To get notified of new episodes and blog posts, subscribe!'
