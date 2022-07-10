@@ -1,8 +1,8 @@
 ---
-title: Episode 6
-date: '2021-10-24'
+title: Episode 5
+date: 2021-10-24
 categories:
-  - data/categories/category-5ht923itg.json
+- data/categories/category-5ht923itg.json
 tags: []
 image_alt: Podcast
 excerpt: 'The Inaugural Episode of Path to Cloud! '
@@ -13,6 +13,7 @@ seo:
   extra: []
 layout: post
 image: images/PODCAST 1.png
+
 ---
 ## Welcome to the Podcast!
 
